@@ -18,6 +18,6 @@ public class testScript : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        
+        // stuff
     }
 }
